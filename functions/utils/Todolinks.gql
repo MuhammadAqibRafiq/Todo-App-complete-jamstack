@@ -1,0 +1,7 @@
+type TodoLink {
+    item: String! 
+}
+
+type Query {
+    allTodos: [TodoLink!]!
+}

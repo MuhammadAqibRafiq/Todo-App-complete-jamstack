@@ -1,0 +1,21 @@
+.formheaderbg{
+    font-size: 18px;
+    size: 10px;
+    color: rgb(12, 7, 7);
+    border-radius: 8px;
+}
+.footertop{
+    display: flex;
+    justify-content: center;
+    background-color:#4DA8D5;
+}
+.footerbot{
+    display: flex;
+    justify-content: center;
+    background-color: #4DA8D5;
+    /* background-color: blue; */
+    border-end-end-radius: 100px;
+    border-end-start-radius: 100px;
+
+}
+
