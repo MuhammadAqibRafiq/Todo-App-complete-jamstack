@@ -14,7 +14,7 @@ const Footer = () => {
 <a href='https://github.com/MuhammadAqibRafiq'>  <FontAwesomeIcon icon={faGithub} color='black' size='2x' pull="right" /></a>
 </div>
 
-<div className={containerStyles.footerbot}><h6><a href="http://aqib-rafiq.surge.sh/" style={{ textDecoration: 'none', color: 'black' }}>© copyright reserved 2021</a> </h6></div>
+<div className={containerStyles.footerbot}><h6><a href="http://aqib-rafiq.surge.sh/" style={{ textDecoration: 'none', color: 'white' }}>© copyright reserved 2021</a> </h6></div>
 
         </div>
     )
